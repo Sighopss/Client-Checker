@@ -3,9 +3,9 @@ This is such an awesome script - not
 Better run as admin because some shit can not be queried without (e.g. BitLocker status)
 Green = good
 Red = Not good
-Purple = possibly not good
+Purple = possibly not fucking good
 
-Author: @LuemmelSec
+
 License: BSD 3-Clause
 
 #>
